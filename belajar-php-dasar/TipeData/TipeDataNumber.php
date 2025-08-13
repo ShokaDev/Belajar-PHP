@@ -1,5 +1,7 @@
 <?php 
 
+// Seperti namanya, tipe data Number adalah tipe data yang menampilkan angka saja
+
 echo "Decimal : "; // [Base 10]
 var_dump(1234); // Output : int(1234)
 
